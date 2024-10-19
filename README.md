@@ -21,7 +21,7 @@ This repository contains dashboards created using **Power BI** to analyze and vi
 
 ### Call Centre Analysis
 
-![Alt text for the image](Callcentre.png)
+![Callcentre dashboard](Callcentre.png)
 
 
 1. **KPIs Calculated**:
@@ -41,6 +41,11 @@ This repository contains dashboards created using **Power BI** to analyze and vi
     - **Automated Responses**: For commonly abandoned call issues, introduce an automated system to engage customers before they abandon the call.
 
 ### Customer Retention Analysis
+
+![Churn analysis dashboard](Churnanalysis.png)
+![Riskanalysis dashboard](Riskanalysis.png)
+
+
 
 1. **KPIs Calculated**:
     - **Churn Rate**: Overall churn rate is calculated at **26.54%**, highlighting significant customer losses.
