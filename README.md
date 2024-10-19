@@ -21,6 +21,9 @@ This repository contains dashboards created using **Power BI** to analyze and vi
 
 ### Call Centre Analysis
 
+![Alt text for the image](Callcentre.png)
+
+
 1. **KPIs Calculated**:
     - **Overall Customer Satisfaction**: Average rating of customer feedback.
     - **Calls Answered/Abandoned**: Monthly comparison of answered versus abandoned calls.
