@@ -19,7 +19,7 @@ This repository contains dashboards created using **Power BI** to analyze and vi
 
 ## Data Analysis Process
 
-### Call Centre Analysis
+### Call Centre Analysis:
 
 ![Callcentre dashboard](Callcentre.png)
 
@@ -40,7 +40,9 @@ This repository contains dashboards created using **Power BI** to analyze and vi
     - **Focus on Agent Training**: Provide tailored training to agents with lower performance in terms of speed and satisfaction ratings.
     - **Automated Responses**: For commonly abandoned call issues, introduce an automated system to engage customers before they abandon the call.
 
-### Customer Retention Analysis
+### Customer Retention Analysis:
+
+### Churn Analysis Dashboard
 
 ![Churn analysis dashboard](Churnanalysis.png)  
 
