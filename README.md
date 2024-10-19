@@ -44,7 +44,7 @@ This repository contains dashboards created using **Power BI** to analyze and vi
 
 ![Churn analysis dashboard](Churnanalysis.png)  
 
-
+### Risk Analysis Dashboard
 ![Riskanalysis dashboard](Riskanalysis.png)
 
 
