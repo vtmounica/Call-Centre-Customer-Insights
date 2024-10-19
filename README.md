@@ -42,7 +42,10 @@ This repository contains dashboards created using **Power BI** to analyze and vi
 
 ### Customer Retention Analysis
 
-![Churn analysis dashboard](Churnanalysis.png)   ![Riskanalysis dashboard](Riskanalysis.png)
+![Churn analysis dashboard](Churnanalysis.png)  
+
+
+![Riskanalysis dashboard](Riskanalysis.png)
 
 
 
