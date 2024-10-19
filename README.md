@@ -43,6 +43,7 @@ This repository contains dashboards created using **Power BI** to analyze and vi
 ### Customer Retention Analysis
 
 ![Churn analysis dashboard](Churnanalysis.png)
+
 ![Riskanalysis dashboard](Riskanalysis.png)
 
 
@@ -73,14 +74,6 @@ These analyses and visualizations provide a clear understanding of the call cent
 - **Predictive Modeling**: Implement predictive models for customer churn to identify at-risk customers before they leave.
 - **Enhanced Segmentation**: Segment customer groups by demographic data to target retention strategies more effectively.
 - **Integration with CRM**: Integrate dashboards with the company’s CRM system to get real-time updates on customer satisfaction and churn.
-
----
-
-## Files in the Repository
-
-1. **CallCentre.png** - Screenshot of the Call Centre Trends dashboard.
-2. **RiskAnalysis.png** - Screenshot of the Risk Analysis dashboard related to customer churn.
-3. **ChurnAnalysis.png** - Screenshot of the detailed Churn Analysis dashboard.
 
 ---
 
